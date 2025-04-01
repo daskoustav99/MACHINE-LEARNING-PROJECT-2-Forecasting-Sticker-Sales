@@ -1,5 +1,5 @@
 # MACHINE-LEARNING-PROJECT-2-Forecasting-Sticker-Sales
-# Problem Statement
+# PROBLEM STATEMENT
 
 I need to predict multiple years worth of sales for Kaggle-branded stickers across different stores and countries, considering real-world factors such as seasonality, holidays, and trends. It is a regression problem.
 
